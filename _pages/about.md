@@ -62,8 +62,14 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 
 # ⏳ Professional Services
 
+#### Program Committee Members
+- The 13th International Conference on Learning Representations (ICLR’25)
+
+
 #### Journal Invited Reviewer
 - Information Science (INS, ELSEVIER)
+
+
 
 <!-- # 📆 Research Experience
 
