@@ -39,7 +39,7 @@ My research interests include multi-view learning, feature selection, and semi-s
 Graph Convolutional Networks. The International Joint Conference on Neural Networks (IJCNN'24), June 30, 2024, Yokohama, Japan.
 5. **Chenglong Zhang**, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, Xingyu Wu, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
 6. Bingbing Jiang, **Chenglong Zhang**, Yan Zhong, Yi Liu, Yingwei Zhang, Xingyu Wu, Weiguo Sheng. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
-7. Bingbing Jiang, Jun Liu, Zidong Wang, **Chenglong Zhang**#, Jie Yang, Yadi Wang, Weiguo Sheng, Weiping Ding#. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning[J]. Pattern Recognition, DOI: 10.1016/j.patcog.2024.111159, 2024.
+7. Bingbing Jiang, Jun Liu, Zidong Wang, **Chenglong Zhang**#, Jie Yang, Yadi Wang, Weiguo Sheng, Weiping Ding#. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning. Pattern Recognition, DOI: 10.1016/j.patcog.2024.111159, 2024.
 
 &emsp; &emsp; &emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
 
