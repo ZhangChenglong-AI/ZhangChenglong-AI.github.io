@@ -19,7 +19,7 @@ redirect_from:
 
 
 Currently, I am working toward the M.Sc. degree under the advisory of Professor Weiguo Sheng and Associate Professor Bingbing Jiang, with the School of Information Science and Technology, Hangzhou Normal University, Zhejiang, China. 
-In 2022, I  received the B.Sc. degree from China Jiliang University, Zhejiang, China.
+In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
 My research interests include multi-view learning, feature selection, and semi-supervised learning. Until now, I have published some research articles in machine learning and data mining, including IJCAI, TETCI, Information Fusion, and Information Sciences.
 
@@ -36,7 +36,7 @@ My research interests include multi-view learning, feature selection, and semi-s
 2. Bingbing Jiang, Jun Liu, Zidong Wang, **Chenglong Zhang**#, Jie Yang, Yadi Wang, Weiguo Sheng, Weiping Ding#. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning. Pattern Recognition, DOI: 10.1016/j.patcog.2024.111159, 2024.
 3. **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM'24), 28 October - 1 November, 2024, Melbourne, Australia.
 4. **Chenglong Zhang**, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI'24), August 3-9, 2024, Jeju, South Korea.
-5. **Chenglong Zhang** *, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, DOI: 10.1109/TETCI.2024.3375342, 2024.
+5. **Chenglong Zhang** *, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.
 6. Zihao Xu, **Chenglong Zhang**, Zhaolong Ling, Peng Zhou, Yan Zhong, Li Li, Han Zhang, Weiguo Sheng, Bingbing Jiang. Multi-View Semi-Supervised Feature Selection with
 Graph Convolutional Networks. The International Joint Conference on Neural Networks (IJCNN'24), June 30, 2024, Yokohama, Japan.
 7. **Chenglong Zhang**, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, Xingyu Wu, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
@@ -57,6 +57,7 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 - Semi-supervised Learning
 
 # 🎖 Honors and Awards
+- National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2024
 - Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2022
 - Outstanding Graduate Award of China Jiliang University, China Jiliang University, Jun 2022
 
@@ -65,6 +66,7 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 # ⏳ Professional Services
 
 #### Program Committee Members
+- The International Joint Conference on Neural Networks (IJCNN'25)
 - The 13th International Conference on Learning Representations (ICLR’25)
 
 
