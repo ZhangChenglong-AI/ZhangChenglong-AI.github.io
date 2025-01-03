@@ -51,11 +51,11 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 - *2022.09 - now*, Hangzhou Normal University, Masters Candidate
   - Computer Science and Technology, School of Information Science and Technology
 
-# 📚 Internships
-
+# 📚 Research
 - Multi-view Learning
 - Feature Selection
 - Semi-supervised Learning
+
 
 # 🎖 Honors and Awards
 - National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2024
