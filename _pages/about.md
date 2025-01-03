@@ -51,7 +51,7 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 - *2022.09 - now*, Hangzhou Normal University, Masters Candidate
   - Computer Science and Technology, School of Information Science and Technology
 
-# 💻 Research
+# 📚 Research
 
 - Multi-view Learning
 - Feature Selection
