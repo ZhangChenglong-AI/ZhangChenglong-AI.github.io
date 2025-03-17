@@ -66,7 +66,7 @@ Graph Convolutional Networks. The International Joint Conference on Neural Netwo
 
 # ⏳ Professional Services
 
-#### Program Committee Members
+#### Program Committee Member (PC)
 - The 34th ACM International Conference on Multimedia (ACM MM’25)
 - The 13th International Conference on Learning Representations (ICLR’25)
 - The 2025 International Joint Conference on Neural Networks (IJCNN’25)
