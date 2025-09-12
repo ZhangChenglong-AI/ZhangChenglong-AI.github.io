@@ -76,7 +76,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 #### Program Committee Member (PC)
 - The 40th AAAI Conference on Artificial Intelligence (AAAI’26)
 - The 34th ACM International Conference on Multimedia (ACM MM’25)
-- The 13th International Conference on Learning Representations (ICLR’25)
+- The International Conference on Learning Representations (ICLR, 25-26)
 - The 2025 International Joint Conference on Neural Networks (IJCNN’25)
 
 #### Journal Invited Reviewer
