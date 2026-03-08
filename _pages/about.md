@@ -76,16 +76,24 @@ Until now, I have published more than 10 papers in machine learning and data min
 # ⏳ Professional Services
 
 #### Program Committee Member (PC)
-- The 40th AAAI Conference on Artificial Intelligence (AAAI’26)
-- The 34th ACM International Conference on Multimedia (ACM MM’25)
+- The AAAI Conference on Artificial Intelligence (AAAI’26)
+- The ACM International Conference on Multimedia (ACM MM, 25-26)
 - The International Conference on Learning Representations (ICLR, 25-26)
-- The 2025 International Joint Conference on Neural Networks (IJCNN’25)
+- The International Joint Conference on Neural Networks (IJCNN, 25-25)
 
 #### Journal Invited Reviewer
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT, IEEE)
+- IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
+- Neural Networks (NEUNET, Elsevier)
 - Applied Soft Computing (ASOC, ELSEVIER)
 - Expert Systems With Applications (ESWA, ELSEVIER)
-- Information Science (INS, ELSEVIER)
 - Information Processing and Management (IPM, Elsevier)
+- Information Science (INS, ELSEVIER)
+- Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
+- Neurocomputing (NEUCOM, Elsevier)
+
+
+
 
 
 <!-- # 📆 Research Experience
