@@ -93,7 +93,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 - Neurocomputing (NEUCOM, Elsevier)
 
 #### Teaching Assistant
-2026.03 - Present: Served as a Teaching Assistant (TA) for the Data Structures course at Nanjing University.
+- 2026.03 - Present: Served as a Teaching Assistant (TA) for the Data Structures course at Nanjing University.
 
 <!-- # 📆 Research Experience
 
