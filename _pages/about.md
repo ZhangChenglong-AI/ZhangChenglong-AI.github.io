@@ -50,7 +50,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-1. **Chenglong Zhang**#, Chao Zhang, Junhao Zhang, 
+1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
 2. Bingbing Jiang, **Chenglong Zhang**#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.
 3. Bingbing Jiang, **Chenglong Zhang**#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 4. Zhongli Wang, Jie Yang, Junyi Guan, **Chenglong Zhang**, Xinyan Liang, Bingbing Jiang, Weiguo Sheng. Enhanced Density Peak Clustering for High-dimensional Data. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
