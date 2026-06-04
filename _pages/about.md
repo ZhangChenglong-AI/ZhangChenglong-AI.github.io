@@ -29,7 +29,6 @@ Until now, I have published more than 10 papers in machine learning and data min
 # 🔥 Recent News
 - *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
 - *Sep. 2025*: Started my Ph.D. study at Nanjing University, advised by Prof. Huaxiong Li and Prof. Xianzhong Zhou. 
-- *Feb. 2025*: Two papers were accepted by AAAI 2025.
 
 
 # 📖 Educations
