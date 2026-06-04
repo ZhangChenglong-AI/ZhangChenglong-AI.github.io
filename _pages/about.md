@@ -41,12 +41,6 @@ Until now, I have published more than 10 papers in machine learning and data min
 - *2018.09 - 2022.06*, China Jiliang University, Bachelor
   - Information and Computing Science, School of Science
 
-# 💻 Research
-
-- Multi-view Learning
-- Feature Selection
-- Un/Semi/Weakly-supervised Learning
-
 # 📝 Selected Publications
 1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
 2. Bingbing Jiang, **Chenglong Zhang**#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.
