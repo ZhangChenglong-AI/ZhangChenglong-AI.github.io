@@ -22,8 +22,10 @@ Currently, I am pursuing the Ph.D. degree under the advisory of Prof. Huaxiong L
 Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Assoc. Prof. [Bingbing Jiang](https://ZhangChenglong-AI.github.io/CV/Resume_BingbingJiang.pdf).
 In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
+
 My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion.
-Until now, I have published more than 10 papers in machine learning and data mining <a href='https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
+Until now, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300"></a>,
+including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
