@@ -5,6 +5,12 @@ excerpt: "Publications"
 author_profile: true
 ---
 
+# 💻 Research
+
+- Multi-view Learning
+- Feature Selection
+- Un/Semi/Weakly-supervised Learning
+
 # Publications
 
 1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
