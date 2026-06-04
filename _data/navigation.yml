@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -7,19 +7,16 @@ main:
     url: "/#recent-news"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
- # - title: "Research"
- #   url: "/#-research"
-  
-  # - title: "Internships"
-    # url: "/#-internships"
+#  - title: "Research"
+#    url: "/#research"
 
- - title: "Publications"
-  url: "/#publications"
+  - title: "Publications"
+    url: "/#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#honors-and-awards"
 
 #  - title: "Professional Services"
 #    url: "/#-professional-services"
