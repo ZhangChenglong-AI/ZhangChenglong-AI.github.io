@@ -25,6 +25,13 @@ In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, Ch
 My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion.
 Until now, I have published more than 10 papers in machine learning and data mining <a href='https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>, including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
+
+# 🔥 Recent News
+- *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
+- *Sep. 2025*: Started my Ph.D. study at Nanjing University, advised by Prof. Huaxiong Li and Prof. Xianzhong Zhou. 
+- *Feb. 2025*: Two papers were accepted by AAAI 2025.
+
+
 # 📖 Educations
 
 - *2025.09 - Now*, Nanjing University, Ph.D Candidate
@@ -39,12 +46,6 @@ Until now, I have published more than 10 papers in machine learning and data min
 - Multi-view Learning
 - Feature Selection
 - Un/Semi/Weakly-supervised Learning
-
-
-# 🔥 Recent News
-- *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
-- *Sep. 2025*: Started my Ph.D. study at Nanjing University, advised by Prof. Huaxiong Li and Prof. Xianzhong Zhou. 
-- *Feb. 2025*: Two papers were accepted by AAAI 2025.
 
 # 📝 Selected Publications
 1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
