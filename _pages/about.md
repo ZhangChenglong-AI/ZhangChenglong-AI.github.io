@@ -57,7 +57,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 8. Bingbing Jiang, **Chenglong Zhang**, Yan Zhong, Yi Liu, Yingwei Zhang, Xingyu Wu, Weiguo Sheng. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
 
 &emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
-[View all Publications→](/publications/)
+[View all publications →](/publications/)
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2025
