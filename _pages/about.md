@@ -29,7 +29,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 # 🔥 Recent News
 - *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2025.09 - Now*, Nanjing University, Ph.D Candidate
   - Management Science and Engineering, Department of Control Science and Intelligence Engineering
@@ -53,6 +53,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 [View all publications →](/publications/)
 
 
+<span class='anchor' id='honors-and-awards'></span>
 # 🎖️ Honors and Awards
 - Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2025
 - Outstanding Graduate Award of Hangzhou Normal University, Hangzhou Normal University, Jun 2025
