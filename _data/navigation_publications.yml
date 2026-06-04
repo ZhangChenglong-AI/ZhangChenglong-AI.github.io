@@ -1,0 +1,10 @@
+# navigation for publications page
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "Research"
+    url: "/#research"
+
+  - title: "Publications"
+    url: "/publications/"
