@@ -55,7 +55,7 @@ Until now, I have published more than 10 papers in machine learning and data min
 [View all publications →](/publications/)
 
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - Outstanding Graduate Award of Zhejiang Province, Education Department of Zhejiang Province, Jan 2025
 - Outstanding Graduate Award of Hangzhou Normal University, Hangzhou Normal University, Jun 2025
 - National Scholarship, Ministry of Education of the People’s Republic of China, Dec 2024
