@@ -22,7 +22,8 @@ author_profile: true
 ## 2026
 
 1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
-2. Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, **Chenglong Zhang**, Shuting Dong, Xinyan Liang, Bingbing Jiang. Multi-View Clustering with Granularity-Aware Pseudo Supervision. The 40th AAAI Conference on Artificial Intelligence (AAAI’26), January 20–27, 2026, Singapore.
+2. Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Weiguo Sheng, Weiping Ding. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), August 9–13, 2026, Jeju, Korea.
+3. Jie Yang, Cheng-You Lu, Zhongli Wang, Hsiang-Ting Chen, Guang-Kui Xu, **Chenglong Zhang**, Shuting Dong, Xinyan Liang, Bingbing Jiang. Multi-View Clustering with Granularity-Aware Pseudo Supervision. The 40th AAAI Conference on Artificial Intelligence (AAAI’26), January 20–27, 2026, Singapore.
 
 ## 2025
 
