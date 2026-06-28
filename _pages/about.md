@@ -19,7 +19,7 @@ redirect_from:
 
 
 Currently, I am pursuing the Ph.D. degree under the advisory of Prof. Huaxiong Li and Prof. Xianzhong Zhou, in the Department of Control Science and Intelligence Engineering, Nanjing University (NJU), Jiangsu, China.
-Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Assoc. Prof. [Bingbing Jiang](https://ZhangChenglong-AI.github.io/CV/Resume_BingbingJiang.pdf).
+Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Assoc. Prof. [Bingbing Jiang](https://jiangbingbing-ai.github.io/).
 In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
 
