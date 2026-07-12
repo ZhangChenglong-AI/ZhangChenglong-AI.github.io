@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+**I develop scalable and robust learning methods for multi-view, weakly supervised, and high-dimensional data.**
 
-Currently, I am pursuing the Ph.D. degree under the advisory of Prof. Huaxiong Li and Prof. Xianzhong Zhou, in the Department of Control Science and Intelligence Engineering, Nanjing University (NJU), Jiangsu, China.
+I am currently pursuing the Ph.D. degree under the supervision of Prof. Huaxiong Li and Prof. Xianzhong Zhou in the Department of Control Science and Intelligence Engineering at Nanjing University (NJU), Jiangsu, China.
 Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal University, Zhejiang, China, supervised by Assoc. Prof. [Bingbing Jiang](https://jiangbingbing-ai.github.io/).
 In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
 
 My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion.
-Until now, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300"></a>,
+To date, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FZhangChenglong-AI%2FZhangChenglong-AI.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300"></a>,
 including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
 <span class='anchor' id='recent-news'></span>
@@ -34,8 +35,8 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 - *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, will appear at KDD 2026.
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
-- *2025.09 - Now*, Nanjing University, Ph.D Candidate
+# 📖 Education
+- *2025.09 - Now*, Nanjing University, Ph.D. Candidate
   - Management Science and Engineering, Department of Control Science and Intelligence Engineering
 - *2022.09 - 2025.06*, Hangzhou Normal University, Master
   - Computer Science and Technology, School of Information Science and Technology
@@ -69,11 +70,11 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 # ⏳ Professional Services
 
 #### Program Committee Member (PC)
-- The Neural Information Processing Systems (NIPS’26)
+- The Conference on Neural Information Processing Systems (NeurIPS 2026)
 - The AAAI Conference on Artificial Intelligence (AAAI’26)
 - The ACM International Conference on Multimedia (ACM MM, 25-26)
 - The International Conference on Learning Representations (ICLR, 25-26)
-- The International Joint Conference on Neural Networks (IJCNN, 25-25)
+- The International Joint Conference on Neural Networks (IJCNN, 2025–2026)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Image Processing (TIP, IEEE)
@@ -81,10 +82,10 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 - IEEE/CAA Journal of Automatica Sinica (JAS, IEEE)
 - Pattern Recognition (PR, Elsevier)
 - Neural Networks (NEUNET, Elsevier)
-- Applied Soft Computing (ASOC, ELSEVIER)
-- Expert Systems With Applications (ESWA, ELSEVIER)
+- Applied Soft Computing (ASOC, Elsevier)
+- Expert Systems With Applications (ESWA, Elsevier)
 - Information Processing and Management (IPM, Elsevier)
-- Information Science (INS, ELSEVIER)
+- Information Sciences (INS, Elsevier)
 - Engineering Applications of Artificial Intelligence (EAAI, Elsevier)
 - Neurocomputing (NEUCOM, Elsevier)
 
