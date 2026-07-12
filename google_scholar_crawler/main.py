@@ -8,7 +8,7 @@ from scholarly import scholarly
 
 
 MAX_ATTEMPTS = 3
-RETRY_DELAYS_SECONDS = (20, 60)
+RETRY_DELAYS_SECONDS = (120, 300)
 
 
 def fetch_author(scholar_id: str) -> dict:
