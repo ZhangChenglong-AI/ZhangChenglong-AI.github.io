@@ -29,6 +29,7 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
+- *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition.
 - *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
 - *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, will appear at KDD 2026.
 
