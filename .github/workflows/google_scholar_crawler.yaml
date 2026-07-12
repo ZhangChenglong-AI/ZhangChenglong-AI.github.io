@@ -3,7 +3,8 @@ name: Get Citation Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 8 * * *"
+    # Run at 08:00 UTC every Monday, Wednesday, and Friday.
+    - cron: "0 8 * * 1,3,5"
 
 concurrency:
   group: get-citation-data
@@ -15,7 +16,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -43,6 +44,9 @@ jobs:
       - name: Run crawler and push citation data
         run: |
           . .venv/bin/activate
+          curl --fail --silent --show-error --location \
+            "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_data.json" \
+            --output /tmp/previous_gs_data.json || true
           cd ./google_scholar_crawler
           python main.py
           cd ./results
@@ -55,3 +59,4 @@ jobs:
           git push "${remote_repo}" HEAD:google-scholar-stats --force
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          PREVIOUS_STATS_FILE: /tmp/previous_gs_data.json
