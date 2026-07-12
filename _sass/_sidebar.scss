@@ -142,7 +142,14 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
+    white-space: nowrap;
   }
+}
+
+.author__updated {
+  margin-top: 12px;
+  color: $gray;
+  font-size: $type-size-7;
 }
 
 .author__urls-wrapper {
