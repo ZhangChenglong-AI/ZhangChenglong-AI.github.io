@@ -24,15 +24,34 @@ Before joining NJU, I received the M.S. degree in 2025 from Hangzhou Normal Univ
 In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, China.
 
 
-My research interests include semi-supervised/unsupervised learning, feature selection, and multi-view data fusion.
 To date, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url={{ url | url_encode }}&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300" alt="Google Scholar citations"></a>,
 including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
-- *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition.
-- *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, will appear at IJCAI 2026.
-- *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, will appear at KDD 2026.
+
+- *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition <span class="news-tag news-tag--sci">SCI Q1</span>.
+- *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, has been accepted by IJCAI 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
+- *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, has been accepted by ACM SIGKDD 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
+- *Sep. 2025*: One paper, Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation, has been published in IEEE Transactions on Fuzzy Systems <span class="news-tag news-tag--sci">SCI Q1</span>.
+- *Feb. 2025*: One paper, Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering, has been accepted by AAAI 2025 <span class="news-tag news-tag--ccf">CCF-A</span>.
+
+<details class="news-more">
+  <summary><span class="news-more__closed">More News</span><span class="news-more__open">Hide News</span></summary>
+
+  <ul>
+    <li><em>Oct. 2024</em>: One paper, Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion, has been accepted by ACM MM 2024 <span class="news-tag news-tag--ccf">CCF-A</span>.</li>
+    <li><em>Aug. 2024</em>: One paper, Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference, has been accepted by IJCAI 2024 <span class="news-tag news-tag--ccf">CCF-A</span>.</li>
+  </ul>
+
+</details>
+
+<span class='anchor' id='research-interests'></span>
+# 🔬 Research Interests
+
+- **Multi-view Learning:** Developing scalable fusion and representation methods for heterogeneous and incomplete multi-view data.
+- **Feature Selection for High-dimensional Data:** Designing efficient methods that identify informative features while preserving structural and discriminative information.
+- **Weakly and Semi-supervised Learning:** Learning robust models from limited, incomplete, or noisy supervision together with abundant unlabeled data.
 
 <span class='anchor' id='educations'></span>
 # 📖 Education
@@ -51,8 +70,6 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 4. **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM’24), 28 October - 1 November, 2024, Melbourne, Australia.
 5. **Chenglong Zhang**, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI’24), August 3-9, 2024, Jeju, South Korea.
 6. **Chenglong Zhang***, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.
-7. **Chenglong Zhang**, Bingbing Jiang, Zidong Wang, Jie Yang, Yangfeng Lu, Xingyu Wu, Weiguo Sheng. Efficient multi-view semi-supervised feature selection. Information Sciences, vol 649 (11), pp. 119675, 2023.
-8. Bingbing Jiang, **Chenglong Zhang**, Yan Zhong, Yi Liu, Yingwei Zhang, Xingyu Wu, Weiguo Sheng. Adaptive Collaborative Fusion for Multi-view Semi-supervised Classification. Information Fusion, vol 96 (8), pp. 37 - 50, 2023.
 
 &emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
 [View all publications →](/publications/)

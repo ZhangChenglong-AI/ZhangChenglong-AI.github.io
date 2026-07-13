@@ -1,7 +1,7 @@
 # navigation for publications page
 main:
-  - title: "Research"
-    url: "/publications/#research"
+  - title: "Home"
+    url: "/"
 
   - title: "Publications"
     url: "/publications/#publications"

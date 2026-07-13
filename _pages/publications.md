@@ -5,14 +5,6 @@ excerpt: "Publications"
 author_profile: true
 ---
 
-<span class='anchor' id='research'></span>
-# 💻 Research
-
-- Multi-view Learning
-- Feature Selection
-- Un/Semi/Weakly-supervised Learning
-
-
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
