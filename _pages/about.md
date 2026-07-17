@@ -87,11 +87,11 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 # ⏳ Professional Services
 
 #### Program Committee Member (PC)
-- The Conference on Neural Information Processing Systems (NeurIPS 2026)
-- The AAAI Conference on Artificial Intelligence (AAAI’26)
+- The Conference on Neural Information Processing Systems (NeurIPS, 26)
+- The AAAI Conference on Artificial Intelligence (AAAI, 26-27)
 - The ACM International Conference on Multimedia (ACM MM, 25-26)
 - The International Conference on Learning Representations (ICLR, 25-26)
-- The International Joint Conference on Neural Networks (IJCNN, 2025–2026)
+- The International Joint Conference on Neural Networks (IJCNN, 25-26)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Image Processing (TIP, IEEE)
