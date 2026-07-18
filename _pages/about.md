@@ -92,6 +92,7 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 - The ACM International Conference on Multimedia (ACM MM, 25-26)
 - The International Conference on Learning Representations (ICLR, 25-26)
 - The International Joint Conference on Neural Networks (IJCNN, 25-26)
+- The International Conference on Intelligent Computing (ICIC, 26)
 
 #### Journal Invited Reviewer
 - IEEE Transactions on Image Processing (TIP, IEEE)

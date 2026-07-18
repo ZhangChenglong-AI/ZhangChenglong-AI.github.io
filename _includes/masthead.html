@@ -5,10 +5,6 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
 
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
-            <a href="{{ "/" | relative_url }}">Homepage</a>
-          </li>
-
           {% if page.url == "/publications/" %}
             {% assign nav_links = site.data.navigation_publications.main %}
           {% else %}
