@@ -75,8 +75,7 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
   </a>
   <div class="selected-paper-feature__content">
     <p class="selected-paper-feature__title">Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering</p>
-    <p><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li.</p>
-    <p>The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.</p>
+    <p><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. The 35th International Joint Conference on Artificial Intelligence (IJCAI&rsquo;26), August 15&ndash;21, 2026, Bremen, Germany.</p>
     <p class="selected-paper-feature__links">
       <a href="https://github.com/ZhangChenglong-AI/DOTA-IJCAI2026">Code</a>
       <a href="/files/dota-ijcai2026-poster.pdf">Poster</a>
