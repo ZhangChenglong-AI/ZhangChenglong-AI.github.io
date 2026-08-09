@@ -64,12 +64,34 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications
-1. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
-2. Bingbing Jiang, **Chenglong Zhang**#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.
-3. Bingbing Jiang, **Chenglong Zhang**#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
-4. **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM’24), 28 October - 1 November, 2024, Melbourne, Australia.
-5. **Chenglong Zhang**, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI’24), August 3-9, 2024, Jeju, South Korea.
-6. **Chenglong Zhang***, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.
+
+### Multi-view Clustering
+
+<div class="selected-paper-feature">
+  <a class="selected-paper-feature__poster" href="/files/dota-ijcai2026-poster.pdf" aria-label="Open DOTA IJCAI 2026 poster">
+    <span class="selected-paper-feature__badge">IJCAI 2026</span>
+    <img src="/images/publications/dota-ijcai2026-poster-preview.jpg" alt="Poster preview for Dual-Topology Learning with Adaptive Anchors">
+    <span class="selected-paper-feature__poster-label">Poster</span>
+  </a>
+  <div class="selected-paper-feature__content">
+    <p class="selected-paper-feature__title">Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering</p>
+    <p><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li.</p>
+    <p>The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.</p>
+    <p class="selected-paper-feature__links">
+      <a href="https://github.com/ZhangChenglong-AI/DOTA-IJCAI2026">Code</a>
+      <a href="/files/dota-ijcai2026-poster.pdf">Poster</a>
+    </p>
+    <p class="selected-paper-feature__summary">DOTA jointly optimizes the sample-anchor bipartite graph and the anchor-anchor topology, and uses adaptive view weights to improve scalable multi-view clustering.</p>
+  </div>
+</div>
+
+<ol class="selected-paper-list" start="2">
+  <li>Bingbing Jiang, <strong>Chenglong Zhang</strong>#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.</li>
+  <li>Bingbing Jiang, <strong>Chenglong Zhang</strong>#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.</li>
+  <li><strong>Chenglong Zhang</strong>, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM’24), 28 October - 1 November, 2024, Melbourne, Australia.</li>
+  <li><strong>Chenglong Zhang</strong>, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI’24), August 3-9, 2024, Jeju, South Korea.</li>
+  <li><strong>Chenglong Zhang</strong>*, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.</li>
+</ol>
 
 &emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
 [View all publications →](/publications/)

@@ -87,6 +87,124 @@
 
 }
 
+.selected-paper-feature {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.25em;
+    align-items: center;
+    border-bottom: 1px #efefef solid;
+    padding: 1.25em 0 1.75em 0;
+}
+
+.selected-paper-feature__poster {
+    position: relative;
+    display: block;
+    min-width: 0;
+    color: inherit;
+    text-decoration: none;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+
+    img {
+        display: block;
+        width: 100%;
+        box-shadow: 3px 3px 8px rgba(0, 0, 0, .28);
+        background: #fff;
+    }
+}
+
+.selected-paper-feature__poster {
+    overflow: hidden;
+
+    img {
+        height: auto;
+        max-height: 16em;
+        object-fit: cover;
+        object-position: top;
+    }
+
+    &:focus-visible {
+        outline: 2px solid #224b8d;
+        outline-offset: 4px;
+    }
+
+    .selected-paper-feature__poster-label {
+        position: absolute;
+        right: .55em;
+        bottom: .45em;
+        padding: .1em .45em;
+        color: #fff;
+        background: rgba(34, 75, 141, .9);
+        font-family: "Trebuchet MS", Helvetica, sans-serif;
+        font-size: .72em;
+        font-weight: 700;
+        line-height: 1.3;
+    }
+}
+
+.selected-paper-feature__badge {
+    position: absolute;
+    top: .65em;
+    left: 0;
+    z-index: 1;
+    padding: .2em .7em;
+    color: #fff;
+    background: #00369f;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: .78em;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.selected-paper-feature__content {
+    p {
+        margin: .25em 0 .45em;
+    }
+}
+
+.selected-paper-feature__title {
+    margin-top: 0;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 1.05em;
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+.selected-paper-feature__links {
+    a {
+        display: inline-block;
+        margin-right: .75em;
+        font-weight: 700;
+    }
+}
+
+.selected-paper-feature__summary {
+    color: #555;
+}
+
+.selected-paper-list {
+    margin-top: 1.1em;
+
+    li {
+        margin-bottom: .55em;
+    }
+}
+
+@include breakpoint($medium) {
+    .selected-paper-feature {
+        grid-template-columns: minmax(13em, 36%) minmax(0, 64%);
+        gap: 1.6em;
+    }
+}
+
+@media (max-width: 560px) {
+    .selected-paper-feature__poster img {
+        height: auto;
+        max-height: none;
+        object-position: top;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
