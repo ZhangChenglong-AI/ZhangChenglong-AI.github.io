@@ -68,18 +68,21 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 ### Multi-view Clustering
 
 <div class="selected-paper-feature">
-  <a class="selected-paper-feature__poster" href="/files/dota-ijcai2026-poster.pdf" aria-label="Open DOTA IJCAI 2026 poster">
-    <span class="selected-paper-feature__badge">IJCAI 2026</span>
-    <img src="/images/publications/dota-ijcai2026-poster-preview.jpg" alt="Poster preview for Dual-Topology Learning with Adaptive Anchors">
-    <span class="selected-paper-feature__poster-label">Poster</span>
-  </a>
+  <div class="selected-paper-feature__visual">
+    <a class="selected-paper-feature__poster" href="/files/dota-ijcai2026-poster.pdf" aria-label="Open DOTA IJCAI 2026 poster">
+      <span class="selected-paper-feature__badge">IJCAI 2026</span>
+      <img src="/images/publications/dota-ijcai2026-poster-preview.jpg" alt="Poster preview for Dual-Topology Learning with Adaptive Anchors">
+      <span class="selected-paper-feature__poster-label">Poster</span>
+    </a>
+    <p class="selected-paper-feature__links selected-paper-feature__links--poster">
+      <a href="https://github.com/ZhangChenglong-AI/DOTA-IJCAI2026"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
+      <span class="selected-paper-feature__link-separator" aria-hidden="true">|</span>
+      <a href="/files/dota-ijcai2026-poster.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Poster</a>
+    </p>
+  </div>
   <div class="selected-paper-feature__content">
     <p class="selected-paper-feature__title">Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering</p>
     <p><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. The 35th International Joint Conference on Artificial Intelligence (IJCAI&rsquo;26), August 15&ndash;21, 2026, Bremen, Germany.</p>
-    <p class="selected-paper-feature__links">
-      <a href="https://github.com/ZhangChenglong-AI/DOTA-IJCAI2026">Code</a>
-      <a href="/files/dota-ijcai2026-poster.pdf">Poster</a>
-    </p>
     <p class="selected-paper-feature__summary">DOTA jointly optimizes the sample-anchor bipartite graph and the anchor-anchor topology, and uses adaptive view weights to improve scalable multi-view clustering.</p>
   </div>
 </div>

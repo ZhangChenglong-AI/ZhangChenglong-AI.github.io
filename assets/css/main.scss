@@ -96,6 +96,10 @@
     padding: 1.25em 0 1.75em 0;
 }
 
+.selected-paper-feature__visual {
+    min-width: 0;
+}
+
 .selected-paper-feature__poster {
     position: relative;
     display: block;
@@ -169,10 +173,25 @@
 
 .selected-paper-feature__links {
     a {
-        display: inline-block;
-        margin-right: .75em;
+        display: inline-flex;
+        align-items: center;
+        gap: .28em;
         font-weight: 700;
     }
+}
+
+.selected-paper-feature__links--poster {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .55em;
+    flex-wrap: wrap;
+    margin: .55em 0 0;
+    text-align: center;
+}
+
+.selected-paper-feature__link-separator {
+    color: #777;
 }
 
 .selected-paper-feature__summary {
