@@ -25,7 +25,7 @@ In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, Ch
 
 
 To date, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url={{ url | url_encode }}&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300" alt="Google Scholar citations"></a>,
-including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences.
+including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences. My current work includes collaborative research with [Chao Zhang](https://czhangnju.github.io/) on scalable multi-view learning and clustering.
 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
