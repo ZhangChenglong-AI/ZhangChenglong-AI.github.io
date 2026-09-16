@@ -21,17 +21,11 @@ permissions:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+    runs-on: macos-latest
+    timeout-minutes: 5
 
     steps:
       - uses: actions/checkout@v7
-
-      - name: Route Scholar requests through Cloudflare WARP
-        uses: fscarmen/warp-on-actions@37ce1997e075435a827991dabcce1d080c1fe512 # v1.4
-        with:
-          stack: ipv4
-          mode: client
 
       - name: Set up Python
         uses: actions/setup-python@v7
