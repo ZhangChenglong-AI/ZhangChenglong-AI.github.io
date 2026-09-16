@@ -63,9 +63,12 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
   - Information and Computing Science, School of Science
 
 <span class='anchor' id='publications'></span>
-# 📝 Selected Publications
+<div class="selected-publications-heading">
+  <h1>📝 Selected Publications</h1>
+  <a class="selected-publications-heading__link" href="/publications/">View all publications <span aria-hidden="true">&rarr;</span></a>
+</div>
 
-### Multi-view Clustering
+<h2 class="selected-publications-category"><i class="fas fa-layer-group" aria-hidden="true"></i> Multi-view Clustering</h2>
 
 <div class="selected-paper-feature">
   <div class="selected-paper-feature__visual">
@@ -74,16 +77,17 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
       <img src="/images/publications/dota-ijcai2026-poster-preview.jpg" alt="Poster preview for Dual-Topology Learning with Adaptive Anchors">
       <span class="selected-paper-feature__poster-label">Poster</span>
     </a>
-    <p class="selected-paper-feature__links selected-paper-feature__links--poster">
+  </div>
+  <div class="selected-paper-feature__content">
+    <p class="selected-paper-feature__title">Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering</p>
+    <p class="selected-paper-feature__authors"><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li.</p>
+    <p class="selected-paper-feature__venue">The 35th International Joint Conference on Artificial Intelligence (<strong>IJCAI 2026</strong>), August 15&ndash;21, 2026, Bremen, Germany.</p>
+    <p class="selected-paper-feature__summary">DOTA jointly optimizes the sample-anchor bipartite graph and the anchor-anchor topology, and uses adaptive view weights to improve scalable multi-view clustering.</p>
+    <p class="selected-paper-feature__links selected-paper-feature__links--content">
       <a href="https://github.com/ZhangChenglong-AI/DOTA-IJCAI2026"><i class="fab fa-github" aria-hidden="true"></i> Code</a>
       <span class="selected-paper-feature__link-separator" aria-hidden="true">|</span>
       <a href="/files/dota-ijcai2026-poster.pdf"><i class="fas fa-file-pdf" aria-hidden="true"></i> Poster</a>
     </p>
-  </div>
-  <div class="selected-paper-feature__content">
-    <p class="selected-paper-feature__title">Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering</p>
-    <p><strong>Chenglong Zhang</strong>, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. The 35th International Joint Conference on Artificial Intelligence (IJCAI&rsquo;26), August 15&ndash;21, 2026, Bremen, Germany.</p>
-    <p class="selected-paper-feature__summary">DOTA jointly optimizes the sample-anchor bipartite graph and the anchor-anchor topology, and uses adaptive view weights to improve scalable multi-view clustering.</p>
   </div>
 </div>
 
@@ -95,8 +99,7 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
   <li><strong>Chenglong Zhang</strong>*, Xinjie Zhu *, Zidong Wang, Yan Zhong, Weiguo Sheng, Weiping Ding, Bingbing Jiang. Discriminative Multi-View Fusion via Adaptive Regression. IEEE Transactions on Emerging Topics in Computational Intelligence, vol 8 (6), pp. 3821 - 3833, 2024.</li>
 </ol>
 
-&emsp; &emsp; **Note**: * indicates the co-first authors, # indicates the corresponding authors.
-[View all publications →](/publications/)
+<p class="selected-publications-note"><strong>Note:</strong> * indicates the co-first authors, # indicates the corresponding authors.</p>
 
 
 <span class='anchor' id='honors-and-awards'></span>

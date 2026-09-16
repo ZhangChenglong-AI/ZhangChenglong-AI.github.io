@@ -69,9 +69,12 @@ def validate_citations(current: int, previous_file: str | None) -> None:
         )
 
 
-scholar_id = os.environ["GOOGLE_SCHOLAR_ID"].strip().split("&", 1)[0]
+scholar_id = os.environ.get("GOOGLE_SCHOLAR_ID", "").strip().split("&", 1)[0]
 if not scholar_id:
-    raise ValueError("GOOGLE_SCHOLAR_ID is empty")
+    raise ValueError(
+        "GOOGLE_SCHOLAR_ID secret is missing or empty; "
+        "configure it in the repository Actions secrets"
+    )
 
 author = fetch_author(scholar_id)
 citations = author.get("citedby")
