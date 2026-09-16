@@ -22,7 +22,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 5
 
     steps:
       - uses: actions/checkout@v7
@@ -40,6 +40,7 @@ jobs:
       - name: Run crawler and push citation data
         run: |
           curl --fail --silent --show-error --location \
+            --connect-timeout 10 --max-time 30 \
             "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_data.json" \
             --output /tmp/previous_gs_data.json || true
           cd ./google_scholar_crawler
