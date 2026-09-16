@@ -1,1 +1,57 @@
-name: Get Citation Dataon:  workflow_dispatch:  push:    branches:      - main    paths:      - ".github/workflows/google_scholar_crawler.yaml"      - "google_scholar_crawler/**"  schedule:    # Run at 08:00 UTC every Monday, Wednesday, and Friday.    - cron: "0 8 * * 1,3,5"concurrency:  group: get-citation-data  cancel-in-progress: truepermissions:  contents: writejobs:  build:    runs-on: ubuntu-latest    timeout-minutes: 15    steps:      - uses: actions/checkout@v7      - name: Set up Python        uses: actions/setup-python@v7        with:          python-version: "3.12"          cache: "pip"          cache-dependency-path: google_scholar_crawler/requirements.txt      - name: Install requirements        run: python -m pip install --disable-pip-version-check -r google_scholar_crawler/requirements.txt      - name: Run crawler and push citation data        run: |          curl --fail --silent --show-error --location \            "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_data.json" \            --output /tmp/previous_gs_data.json || true          cd ./google_scholar_crawler          python main.py          cd ./results          git init          git config --local user.name "${GITHUB_ACTOR}"          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"          git add *.json          git commit -m "Updated Citation Data" || echo "No changes to commit"          git push "${remote_repo}" HEAD:google-scholar-stats --force        env:          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}          PREVIOUS_STATS_FILE: /tmp/previous_gs_data.json
+name: Get Citation Data
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/google_scholar_crawler.yaml"
+      - "google_scholar_crawler/**"
+  schedule:
+    # Run at 08:00 UTC every Monday, Wednesday, and Friday.
+    - cron: "0 8 * * 1,3,5"
+
+concurrency:
+  group: get-citation-data
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: google_scholar_crawler/requirements.txt
+
+      - name: Install requirements
+        run: python -m pip install --disable-pip-version-check -r google_scholar_crawler/requirements.txt
+
+      - name: Run crawler and push citation data
+        run: |
+          curl --fail --silent --show-error --location \
+            "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/google-scholar-stats/gs_data.json" \
+            --output /tmp/previous_gs_data.json || true
+          cd ./google_scholar_crawler
+          python main.py
+          cd ./results
+          git init
+          git config --local user.name "${GITHUB_ACTOR}"
+          git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add *.json
+          git commit -m "Updated Citation Data" || echo "No changes to commit"
+          git push "${remote_repo}" HEAD:google-scholar-stats --force
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          PREVIOUS_STATS_FILE: /tmp/previous_gs_data.json
