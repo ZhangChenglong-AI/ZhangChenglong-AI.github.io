@@ -1,2 +1,1 @@
-scholarly==1.7.11
-bibtexparser==1.4.3
+scholarly==1.7.11bibtexparser==1.4.3
