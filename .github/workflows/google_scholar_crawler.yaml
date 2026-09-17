@@ -9,8 +9,8 @@ on:
       - ".github/workflows/google_scholar_crawler.yaml"
       - "google_scholar_crawler/**"
   schedule:
-    # Run daily at 08:00 UTC.
-    - cron: "0 8 * * *"
+    # Run every Monday, Wednesday, and Friday at 08:00 UTC (16:00 China time).
+    - cron: "0 8 * * 1,3,5"
 
 concurrency:
   group: get-citation-data
