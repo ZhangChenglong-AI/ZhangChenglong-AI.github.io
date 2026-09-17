@@ -21,7 +21,7 @@ permissions:
 
 jobs:
   build:
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
@@ -55,4 +55,5 @@ jobs:
           git push "${remote_repo}" HEAD:google-scholar-stats --force
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
           PREVIOUS_STATS_FILE: /tmp/previous_gs_data.json
