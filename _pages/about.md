@@ -55,12 +55,29 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 
 <span class='anchor' id='educations'></span>
 # 📖 Education
-- *2025.09 - Now*, Nanjing University, Ph.D. Candidate
-  - Management Science and Engineering, Department of Control Science and Intelligence Engineering
-- *2022.09 - 2025.06*, Hangzhou Normal University, Master
-  - Computer Science and Technology, School of Information Science and Technology
-- *2018.09 - 2022.06*, China Jiliang University, Bachelor
-  - Information and Computing Science, School of Science
+<ul class="education-list">
+  <li class="education-entry education-entry--nju">
+    <img class="education-entry__logo" src="/images/education/nanjing-university.png" alt="Nanjing University emblem">
+    <div class="education-entry__content">
+      <div class="education-entry__main"><em>2025.09 - Now</em>, <strong>Nanjing University</strong>, Ph.D. Candidate</div>
+      <div class="education-entry__detail">Management Science and Engineering, Department of Control Science and Intelligence Engineering</div>
+    </div>
+  </li>
+  <li class="education-entry education-entry--hnu">
+    <img class="education-entry__logo" src="/images/education/hangzhou-normal-university.jpg" alt="Hangzhou Normal University emblem">
+    <div class="education-entry__content">
+      <div class="education-entry__main"><em>2022.09 - 2025.06</em>, <strong>Hangzhou Normal University</strong>, Master</div>
+      <div class="education-entry__detail">Computer Science and Technology, School of Information Science and Technology</div>
+    </div>
+  </li>
+  <li class="education-entry education-entry--cjlu">
+    <img class="education-entry__logo" src="/images/education/china-jiliang-university.jpg" alt="China Jiliang University emblem">
+    <div class="education-entry__content">
+      <div class="education-entry__main"><em>2018.09 - 2022.06</em>, <strong>China Jiliang University</strong>, Bachelor</div>
+      <div class="education-entry__detail">Information and Computing Science, School of Science</div>
+    </div>
+  </li>
+</ul>
 
 <span class='anchor' id='publications'></span>
 <div class="selected-publications-heading">
