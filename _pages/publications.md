@@ -13,6 +13,8 @@ author_profile: true
 
 ## 2026
 
+<!-- Complete the author list when supplied by the author. -->
+1. Resolution-Aware Structural Density Peak Clustering. NeurIPS 2026, Main Track, Poster (Accepted).
 1. Jun Liu, **Chenglong Zhang**, Tongxue Zhou, Yi Liu, Razieh Sheikhpour, Yadi Wang, Junyi Guan, Jiejiang Chen, Bingbing Jiang#. Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion. Pattern Recognition, 2026, 114467.
 2. **Chenglong Zhang**, Chao Zhang, Junhao Zhang, Junyi Guan, Xianzhong Zhou, Bo Wang, Huaxiong Li. Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering. The 35th International Joint Conference on Artificial Intelligence (IJCAI’26), August 15–21, 2026, Bremen, Germany.
 3. Bingbing Jiang, Zhongli Wang, Jie Yang, Guang-Kui Xu, Wei Chen, **Chenglong Zhang**, Xinyan Liang, Peng Zhou, Weiguo Sheng, Weiping Ding. Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data. The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’26), August 9–13, 2026, Jeju, Korea.
@@ -20,7 +22,7 @@ author_profile: true
 
 ## 2025
 
-1. Bingbing Jiang, **Chenglong Zhang**#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.
+1. Bingbing Jiang, **Chenglong Zhang**#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025. <span class="news-tag news-tag--sci">ESI Highly Cited Paper</span>
 2. Bingbing Jiang, **Chenglong Zhang**#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 3. Zhongli Wang, Jie Yang, Junyi Guan, **Chenglong Zhang**, Xinyan Liang, Bingbing Jiang, Weiguo Sheng. Enhanced Density Peak Clustering for High-dimensional Data. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.
 4. Bingbing Jiang, Jun Liu, Zidong Wang, **Chenglong Zhang**#, Jie Yang, Yadi Wang, Weiguo Sheng, Weiping Ding#. Semi-supervised Multi-view Feature Selection with Adaptive Similarity Fusion and Learning. Pattern Recognition, vol 159, pp. 111159, 2025.

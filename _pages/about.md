@@ -25,21 +25,22 @@ In 2022, I received the B.Sc. degree from China Jiliang University, Zhejiang, Ch
 
 
 To date, I have published more than 10 papers in machine learning and data mining <a href="https://scholar.google.com/citations?user=FecGLOEAAAAJ&hl=zh-CN"><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url={{ url | url_encode }}&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations&amp;cacheSeconds=300" alt="Google Scholar citations"></a>,
-including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences. My current work includes collaborative research with [Chao Zhang](https://czhangnju.github.io/) on scalable multi-view learning and clustering.
+including NeurIPS, AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Information Sciences. My current work includes collaborative research with [Chao Zhang](https://czhangnju.github.io/) on scalable multi-view learning and clustering.
 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
+- *Sep. 2026*: Our paper, Resolution-Aware Structural Density Peak Clustering, has been accepted to NeurIPS 2026 (Main Track, Poster) <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, has been accepted by IJCAI 2026 <span class="news-tag news-tag--ccf">CCF-B</span>.
 - *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, has been accepted by ACM SIGKDD 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Sep. 2025*: One paper, Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation, has been published in IEEE Transactions on Fuzzy Systems <span class="news-tag news-tag--sci">SCI Q1</span>.
-- *Feb. 2025*: One paper, Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering, has been accepted by AAAI 2025 <span class="news-tag news-tag--ccf">CCF-A</span>.
 
 <details class="news-more">
   <summary><span class="news-more__closed">More News</span><span class="news-more__open">Hide News</span></summary>
 
   <ul>
+    <li><em>Feb. 2025</em>: One paper, Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering, has been accepted by AAAI 2025 <span class="news-tag news-tag--ccf">CCF-A</span>.</li>
     <li><em>Oct. 2024</em>: One paper, Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion, has been accepted by ACM MM 2024 <span class="news-tag news-tag--ccf">CCF-A</span>.</li>
     <li><em>Aug. 2024</em>: One paper, Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference, has been accepted by IJCAI 2024 <span class="news-tag news-tag--ccf">CCF-A</span>.</li>
   </ul>
@@ -109,7 +110,7 @@ including AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and Informati
 </div>
 
 <ol class="selected-paper-list" start="2">
-  <li>Bingbing Jiang, <strong>Chenglong Zhang</strong>#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025.</li>
+  <li>Bingbing Jiang, <strong>Chenglong Zhang</strong>#, Zhongli Wang, Xinyan Liang, Peng Zhou, Liang Du, Qinghua Zhang, Weiping Ding, Yi Liu, et al. Scalable Fuzzy Clustering with Collaborative Structure Learning and Preservation. IEEE Transactions on Fuzzy Systems, vol 33 (9), pp. 3047 - 3060, 2025. <span class="news-tag news-tag--sci">ESI Highly Cited Paper</span></li>
   <li>Bingbing Jiang, <strong>Chenglong Zhang</strong>#, Xinyan Liang#, Peng Zhou, Jie Yang, Xingyu Wu, Junyi Guan, Weiping Ding, Weiguo Sheng. Collaborative Similarity Fusion and Consistency Recovery for Incomplete Multi-view Clustering. The 39th AAAI Conference on Artificial Intelligence (AAAI’25), February 25 - March 4, 2025, Philadelphia, Pennsylvania, USA.</li>
   <li><strong>Chenglong Zhang</strong>, Xinyan Liang, Peng Zhou, Zhaolong Ling, Yingwei Zhang, Xingyu Wu, Weiguo Sheng, Bingbing Jiang. Scalable Multi-view Unsupervised Feature Selection with Structure Learning and Fusion. The 32nd ACM International Conference on Multimedia (MM’24), 28 October - 1 November, 2024, Melbourne, Australia.</li>
   <li><strong>Chenglong Zhang</strong>, Yang Fang, Xinyan Liang, Han Zhang, Peng Zhou, Xingyu Wu, Jie Yang, Bingbing Jiang, Weiguo Sheng. Efficient Multi-view Unsupervised Feature Selection with Adaptive Structure Learning and Inference. The 33rd International Joint Conference on Artificial Intelligence (IJCAI’24), August 3-9, 2024, Jeju, South Korea.</li>
