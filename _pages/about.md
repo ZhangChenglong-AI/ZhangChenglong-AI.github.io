@@ -30,7 +30,7 @@ including NeurIPS, AAAI, IJCAI, ACM MM, TFS, TETCI, PR, Information Fusion, and 
 <span class='anchor' id='recent-news'></span>
 # 🔥 Recent News
 
-- *Sep. 2026*: Our paper, Resolution-Aware Structural Density Peak Clustering, has been accepted to NeurIPS 2026 (Main Track, Poster) <span class="news-tag news-tag--ccf">CCF-A</span>.
+- *Sep. 2026*: One paper, Resolution-Aware Structural Density Peak Clustering, has been accepted by NeurIPS 2026 (Main Track, Poster) <span class="news-tag news-tag--ccf">CCF-A</span>.
 - *Jul. 2026*: One paper, Multi-view Feature Selection Method with Adaptive Projection Subspace Fusion, has been accepted by Pattern Recognition <span class="news-tag news-tag--sci">SCI Q1</span>.
 - *Jun. 2026*: One paper, Dual-Topology Learning with Adaptive Anchors for Multi-View Clustering, has been accepted by IJCAI 2026 <span class="news-tag news-tag--ccf">CCF-B</span>.
 - *Jan. 2026*: One paper, Self-Enhanced Density Clustering for High Dimension and Low Sample Size Data, has been accepted by ACM SIGKDD 2026 <span class="news-tag news-tag--ccf">CCF-A</span>.
